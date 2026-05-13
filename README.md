@@ -73,7 +73,7 @@ python3 -m pip install yfinance
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/jamesdank/stock-cli.git
 cd YOUR-REPO-NAME
 ```
 
