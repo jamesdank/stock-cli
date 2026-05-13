@@ -74,7 +74,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/jamesdank/stock-cli.git
-cd YOUR-REPO-NAME
+cd stock-cli
 ```
 
 Make the script executable:
